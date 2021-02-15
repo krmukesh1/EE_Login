@@ -13,7 +13,7 @@
   src: url("./fonts/ITCAvantGardeStdBk.otf");
 }
 img {
-  max-width: 80%;
+  max-width: 100%;
 }
 section#section_fit1 {
   margin-top: 3rem;
@@ -32,7 +32,7 @@ header h2 {
 }
 #section_fit1 .images {
   height: auto;
-  width: 82%;
+  width: 95%;
   margin-left: 50px;
   margin-top: 2rem;
 }

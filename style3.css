@@ -13,7 +13,7 @@
   src: url("./fonts/ITCAvantGardeStdBk.otf");
 }
 img {
-  max-width: 80%;
+  max-width: 84%;
 }
 section#section_fit1 {
   margin-top: 3rem;
@@ -46,7 +46,7 @@ div#file1 input#inputEmail4 {
   height: auto;
   width: 30%;
   margin: auto;
-  margin-top: auto;
+  margin-top: 4rem;
   margin-right: auto;
   margin-bottom: auto;
   margin-left: auto;
@@ -58,11 +58,20 @@ div#file1 input#inputEmail4 {
 .text {
   padding: 0 0 1rem 0;
 }
+.text h4 {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+.text span a {
+  font-weight: 600;
+}
 a.btn.btn-primary {
   width: 100%;
   border: 1px solid #17bebb !important;
   background-color: #17bebb !important;
   color: #000;
+
+  font-weight: 600;
 }
 /* button.btn.btn-primary {
   width: 100%;
