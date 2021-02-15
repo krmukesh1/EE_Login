@@ -231,4 +231,8 @@ div#agree {
     margin-right: 1rem;
     font-size: 1rem;
   }
+  .d-flex.flex-row.imgz {
+    margin-left: 8rem;
+    width: 20%;
+  }
 }
