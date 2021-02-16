@@ -53,6 +53,7 @@ header h2 {
   border-radius: 10px;
 }
 .text {
+  font-family: "stdbook-font";
   padding: 0 0 1rem 0;
 }
 .text h4 {
@@ -67,8 +68,7 @@ a.btn.btn-primary {
   border: 1px solid #17bebb !important;
   background-color: #17bebb !important;
   color: #000;
-
-  font-weight: 600;
+  font-family: "stdbook-font";
 }
 /* button.btn.btn-primary {
   width: 100%;
@@ -123,7 +123,9 @@ div#agree {
   color: #17beba !important;
   text-decoration: none !important;
   font-size: 0.8rem;
+  font-family: "stdbook-font";
 }
+
 .d-flex.flex-row.imgz {
   margin-left: 6rem;
   width: 20%;
