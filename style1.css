@@ -24,10 +24,12 @@ header {
   padding-top: 3rem;
 }
 header h1 {
-  font-size: 1rem;
+  font-family: "stdmedium-font";
+  font-size: 1.5rem;
   color: #17beba;
 }
 header h2 {
+  font-family: "stdmedium-font";
   font-size: 1.5rem;
 }
 #section_fit1 .images {
@@ -120,6 +122,7 @@ div#agree {
 .primary a {
   color: #17beba !important;
   text-decoration: none !important;
+  font-size: 0.8rem;
 }
 .d-flex.flex-row.imgz {
   margin-left: 6rem;
@@ -233,32 +236,17 @@ div#agree {
   header h1 {
     font-size: 1.5rem;
     color: #17beba;
-    font-family: "stdmedium-font";
-  }
-  .form-check-inline {
-    display: inline-block;
-    margin-right: 1rem;
-    font-size: 1rem;
-  }
-  .d-flex.flex-row.imgz {
-    margin-left: 8rem;
-    width: 20%;
-  }
-  header h1 {
-    font-size: 1.5rem;
-    color: #17beba;
 
-    font-family: "stddemi-font";
-    font-weight: 700;
+    font-weight: 600;
   }
   header h2 {
-    font-size: 1.8rem;
-    font-family: "stddemi-font";
-    font-weight: 700;
+    font-size: 2rem;
+
+    font-weight: 600;
   }
   .d-flex.flex-row h4 {
-    font-size: 15px;
-    margin-top: -4px;
+    font-size: 0.8rem;
+    margin-top: -3px;
   }
   .demo {
     margin-right: 8rem;
@@ -266,8 +254,17 @@ div#agree {
     font-weight: 600;
     font-size: 14px;
   }
+  .text h4 {
+    font-size: 1.3rem;
+    font-weight: 600;
+  }
+  .text span,
+  a {
+    font-weight: 600;
+    font-size: 1rem;
+  }
   .d-flex.flex-row.imgz {
-    margin-left: 8rem;
+    margin-left: 7rem;
     width: 20%;
   }
 }
