@@ -143,6 +143,15 @@ a.btn.btn-primary {
   width: 90%;
   height: 90%;
 }
+input#inputEmail4,
+input.form-control,
+input#build,
+input#builds,
+select.form-select,
+option::placeholder {
+  font-size: 14px;
+  font-family: "stdbook-font";
+}
 /* mobile Responsive */
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
   .demo {
