@@ -35,8 +35,8 @@ header h2 {
 }
 div#file1 input#inputEmail4 {
   border: 1px dashed #d5dbdb;
-  height: 79px;
-  padding: 2rem 0 0 2rem;
+  height: 60px;
+  padding: 1rem 0 0 2rem;
 }
 #section_fit1 .images {
   height: auto;
@@ -67,7 +67,7 @@ div#file1 input#inputEmail4 {
 }
 .text span,
 a {
-  font-size: 1rem;
+  font-size: 0.85rem;
 }
 a.btn.btn-primary {
   width: 100%;
