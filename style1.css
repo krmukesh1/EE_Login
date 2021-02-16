@@ -108,7 +108,9 @@ a {
   text-decoration: none !important;
 }
 div#agree {
+  margin-top: 10px;
   font-size: 11px;
+  font-family: "stdbook-font";
 }
 .d-flex.flex-row a {
   color: none !important;
@@ -118,6 +120,7 @@ div#agree {
   text-align: center;
   font-family: "stdmedium-font";
   font-size: 13px;
+  padding: 10px 0;
 }
 .primary a {
   color: #17beba !important;
@@ -125,12 +128,18 @@ div#agree {
   font-size: 0.8rem;
 }
 .d-flex.flex-row.imgz {
-  margin-left: 6rem;
+  margin-left: 7rem;
   width: 20%;
 }
 
 #group1 {
-  margin-right: 1rem;
+  margin-right: 0.5rem;
+  width: 90%;
+  height: 90%;
+}
+#group2 {
+  width: 90%;
+  height: 90%;
 }
 /* mobile Responsive */
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
@@ -264,7 +273,7 @@ div#agree {
     font-size: 1rem;
   }
   .d-flex.flex-row.imgz {
-    margin-left: 7rem;
+    margin-left: 8rem;
     width: 20%;
   }
 }
