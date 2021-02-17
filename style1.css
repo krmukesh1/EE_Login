@@ -58,17 +58,19 @@ header h2 {
 }
 .text h4 {
   font-size: 1.3rem;
-  font-weight: 600;
 }
-.text span a {
-  font-weight: 600;
+.text span {
+  font-size: 0.85rem;
+}
+.text a {
+  font-weight: 700;
 }
 a.btn.btn-primary {
   width: 100%;
   border: 1px solid #17bebb !important;
   background-color: #17bebb !important;
   color: #000;
-  margin-top: -15px;
+  margin-top: -10px;
   font-family: "stdbook-font";
 }
 /* button.btn.btn-primary {

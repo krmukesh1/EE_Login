@@ -69,6 +69,9 @@ div#file1 input#inputEmail4 {
 a {
   font-size: 0.85rem;
 }
+.text a {
+  font-weight: 700;
+}
 a.btn.btn-primary {
   width: 100%;
   border: 1px solid #17bebb !important;
