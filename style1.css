@@ -132,6 +132,7 @@ div#agree {
   color: #17beba !important;
   text-decoration: none !important;
   font-size: 0.8rem;
+  font-weight: 600;
 }
 .d-flex.flex-row.imgz {
   margin-left: 7rem;
