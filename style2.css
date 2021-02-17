@@ -71,6 +71,7 @@ a.btn.btn-primary {
   background-color: #17bebb !important;
   color: #000;
   font-family: "stdbook-font";
+  font-weight: 600;
 }
 /* button.btn.btn-primary {
   width: 100%;
