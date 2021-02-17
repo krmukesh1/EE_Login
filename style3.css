@@ -155,6 +155,10 @@ option::placeholder {
   font-size: 14px;
   font-family: "stdbook-font";
 }
+label.form-check-label {
+  font-size: 0.9rem;
+  font-family: "stdbook-font";
+}
 /* mobile Responsive */
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
   #section_fit1 .images {
