@@ -78,6 +78,7 @@ a.btn.btn-primary {
   background-color: #17bebb !important;
   color: #000;
   font-family: "stdbook-font";
+  font-weight: 600;
 }
 /* button.btn.btn-primary {
   width: 100%;
@@ -158,6 +159,10 @@ option::placeholder {
 label.form-check-label {
   font-size: 0.9rem;
   font-family: "stdbook-font";
+}
+.form-check.form-check-inline span {
+  font-weight: 600;
+  cursor: pointer;
 }
 /* mobile Responsive */
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
