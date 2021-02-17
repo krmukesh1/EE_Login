@@ -64,7 +64,7 @@ a {
   font-size: 0.9rem;
 }
 .text a {
-  font-weight: 700;
+  font-weight: 600;
 }
 a.btn.btn-primary {
   width: 100%;
@@ -111,6 +111,7 @@ a.btn.btn-primary {
 .d-flex.flex-row h4 {
   font-size: 10px;
   font-family: "stdbook-font";
+  font-weight: 600;
 }
 
 .demo {
@@ -131,6 +132,7 @@ a.btn.btn-primary {
   text-decoration: none !important;
   font-size: 0.8rem;
   font-family: "stdbook-font";
+  font-weight: 700;
 }
 .d-flex.flex-row.imgz {
   margin-left: 7rem;
